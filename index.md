@@ -1,7 +1,7 @@
 # Testing this one out
 Hello! Does this work?
 
-## Other intresting facts
+## Other interesting facts
 Blue whales can swim
 
 ## Anyways please do not contact me
